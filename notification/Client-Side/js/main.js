@@ -8,7 +8,7 @@ function ragempnotify(message){
         `
     )
     $('.notify').prepend($ragempnotify).fadeIn();
-    $ragempnotify.slideDown(500);
+
     setTimeout(()=>{
         $ragempnotify.slideUp(500);
     },3000)
