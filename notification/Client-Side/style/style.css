@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'PR';
+    src: url('../fonts/Poppins-Regular.731a28a4.ttf');
+}
+
+.border{
+    position: relative;
+    border: 2px solid black;
+    width: 300px;
+    height: 120px;
+    background-color: rgba(0, 0, 0, 0.521);
+    border-radius: 10px;
+    overflow: hidden;
+    height: auto;
+}
+.title{
+    font-family: 'PR';
+    font-size: 18px;
+    color: red;
+    text-align: center;
+    border-bottom: 2px solid red;
+}
+
+.text{
+    text-align: start;
+    font-family: 'PR';
+    color: white;
+    margin-top: 1ch;
+    margin-left: 3px;
+}
