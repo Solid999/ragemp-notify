@@ -4,6 +4,3 @@ mp.events.add('playerReady', (player)=>{
     }
 });
 
-mp.events.addCommand("notify", player =>{
-    player.notify("It's Worked have fun with it")
-});
