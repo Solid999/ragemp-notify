@@ -4,3 +4,6 @@ mp.events.add('playerReady', (player)=>{
     }
 });
 
+mp.events.addCommand("notify", (player) =>{
+    player.notify("Notification test");
+});
