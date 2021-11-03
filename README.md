@@ -4,6 +4,6 @@
 
 How to install:
 
-1. Rename the Client-side folder into "notification" and then add the folder in "client_packages"
+1. Rename the Client-side folder into "notification" and then add the folder in `client_packages`
 
-2. Rename the Server-side folder into "notification" and then add the folder in "packages"
+2. Rename the Server-side folder into "notification" and then add the folder in `packages`
